@@ -5,7 +5,11 @@ Users can interact with a visual interface, select movies they enjoy, and receiv
 
 ---
 
-🔗 Live Deployment: recommender-app-1.onrender.com
+## 🔗 Live Deployment 
+#### Paste this in your browser:
+```
+recommender-app-1.onrender.com
+```
 
 ## ✨ Features
 - **Interactive UI**: A grid-based selection system allowing users to pick movies they like.
@@ -65,14 +69,14 @@ Open http://127.0.0.1:5000 in your browser.
 
 ---
 
-# 📊 Dataset
+## 📊 Dataset
 #### The system uses a dataset containing:
 - Movie Titles
 - Genres
 - Plot Overviews
 - Poster Images (stored in the /images folder)
 
-# 🤝 Contributing
+## 🤝 Contributing
 #### Contributions are welcome! If you have suggestions for improving the recommendation algorithm or the UI, please fork the repo and create a pull request.
 Fork the Project \
 \
@@ -94,7 +98,7 @@ Open a Pull Request
 
 ---
 
-# 📝 License
+## 📝 License
 
 #### Distributed under the MIT License. See LICENSE for more information.
 **Author**: Bruhrk42
