@@ -45,8 +45,8 @@ When a user selects a movie, the system calculates the "distance" between that m
 If you want to run this project locally, follow these steps:
 #### Clone the repository:
 ```bash
-git clone https://github.com/Bruhrk42/Face_Recognition.git
-cd Face_Recognition
+git clone https://github.com/Bruhrk42/recommender_app.git
+cd recommender_app
 ```
 #### Create a virtual environment:
 ```bash
